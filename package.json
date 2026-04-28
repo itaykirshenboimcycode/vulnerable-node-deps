@@ -43,7 +43,8 @@
     "pathval": "1.1.0",
     "got": "11.8.3",
     "trim-newlines": "3.0.0",
-    "simple-git": "3.4.0"
+    "simple-git": "3.4.0",
+    "vm2": "3.9.16"
   },
   "devDependencies": {
     "mocha": "5.2.0",

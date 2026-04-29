@@ -76,7 +76,8 @@
     "prismjs": "1.27.0",
     "mongoose": "5.7.5",
     "webpack": "5.75.0",
-    "sequelize": "4.44.3"
+    "sequelize": "4.44.3",
+    "socket.io-parser": "4.2.3"
   },
   "devDependencies": {
     "mocha": "5.2.0",

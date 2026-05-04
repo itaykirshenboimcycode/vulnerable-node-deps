@@ -97,7 +97,17 @@
     "growl": "1.10.0",
     "js-yaml": "3.13.0",
     "static-eval": "2.0.1",
-    "safe-eval": "0.4.1"
+    "safe-eval": "0.4.1",
+    "debug": "2.6.8",
+    "tunnel-agent": "0.4.3",
+    "url-parse": "1.5.0",
+    "validator": "13.6.0",
+    "ajv": "6.12.2",
+    "event-stream": "3.3.6",
+    "merge": "1.2.1",
+    "mathjs": "7.5.0",
+    "braces": "2.3.0",
+    "object-path": "0.11.4"
   },
   "devDependencies": {
     "mocha": "5.2.0",
